@@ -1,0 +1,57 @@
+
+.paginator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paginator__index {
+    margin-right: 25px;
+    font-size: 14px;
+    line-height: 21px;
+    color: #656464;
+    font-weight: 300;
+    font-family: "Roboto";
+}
+
+.paginator__list {
+    display: flex;
+}
+
+.paginator__page {
+    display: flex;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 32px;
+    color: #262424;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.paginator__quotes {
+    font-weight: 400;
+}
+
+.paginator__item:hover {
+    background: #2b2b40;
+    color: black;
+    /* border-radius: 50%; */
+}
+
+.paginator-red {
+    color: #000000;
+    margin-bottom: 90px;
+}
+
+.paginator__page:hover {
+    background: #2b2b40;
+    color: white;
+}
+
+.paginator-review {
+    margin-bottom: 0px;
+}

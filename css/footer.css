@@ -1,0 +1,13 @@
+
+.footer {
+    margin-top: auto;
+    min-height: 77px;
+    background-color: #2b2b3f;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo__footer {
+    flex: 1;
+}

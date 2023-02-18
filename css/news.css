@@ -1,0 +1,55 @@
+
+.news {
+    margin-bottom: 50px;
+}
+
+.news__header {
+    font-size: 49px;
+    line-height: 38px;
+    color: #262424;
+    font-weight: bold;
+    font-family: "Gotham Pro";
+    margin-bottom: 60px;
+}
+
+.news__item {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+
+.news__item-background {
+    margin-right: 20px;
+}
+
+.news__item-img {
+    height: 190px;
+    width: 190px;
+    border-radius: 50%;
+}
+
+.news__item-date {
+    font-size: 14px;
+    line-height: 21px;
+    color: #656464;
+    font-weight: 300;
+    font-family: "Roboto";
+    margin-bottom: 5px;
+}
+
+.news__item-header {
+    font-size: 14px;
+    line-height: 21px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #262424;
+    margin-bottom: 10px;
+}
+
+.news__item-text {
+    font-size: 16px;
+    line-height: 28px;
+    color: #656464;
+    font-weight: 300;
+    font-family: "Roboto";
+}
