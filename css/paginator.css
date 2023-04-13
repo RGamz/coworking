@@ -21,8 +21,8 @@
 .paginator__page {
     display: flex;
     justify-content: center;
-    width: 32px;
-    height: 32px;
+    width: 25px;
+    height: 30px;
     border-radius: 50%;
     text-decoration: none;
     font-size: 14px;
@@ -35,6 +35,10 @@
 .paginator__quotes {
     font-weight: 400;
 }
+
+/* .paginator__item {
+    margin-right: 0;
+} */
 
 .paginator__item:hover {
     background: #2b2b40;

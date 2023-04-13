@@ -30,6 +30,7 @@ a {
 .main {
     flex: 1;
     padding: 50px 20px;
+    padding-bottom: 70px;
 }
 
 .container__main {
